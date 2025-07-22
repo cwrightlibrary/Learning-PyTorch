@@ -15,4 +15,6 @@ Next, I plan on following the [PyTorch Tutorial: A Quick Preview](https://docs.p
 - [ ] [PyTorch - Learn the Basics](https://docs.pytorch.org/tutorials/beginner/basics/intro.html)
 - [ ] [PyTorch - PyTorch Tutorial: A Quick Preview](https://docs.pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 - [ ] Learn more on the maths behind ML
-  - [ ] 
+  - [ ] Continue UoPeople's Statistics class
+  - [ ] Go through the Deep Learning PDF
+- [ ] Go through the Building a Large Language Model from Scratch PDF
