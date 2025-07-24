@@ -2,8 +2,6 @@
 
 This repository contains a curated collection of resources to learn machine learning (ML), deep learning, and large language models (LLMs) from beginner to intermediate/advanced levels. It is designed for a computer science major or anyone wanting a structured learning path, covering foundational math, ML theory, hands-on deep learning, and LLMs.
 
----
-
 ## Checklist
 
 ### PyTorch Tutorials
